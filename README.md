@@ -32,6 +32,7 @@ Run the following command:
 ## How to Run the Chatbot
 
 Navigate to the project directory and run:
+
    python chatbot.py
 
 ## Output:
